@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["rI8ur"]); }
+
+__d('AdsLeadGenFormEditorStoreLookupSetUploadHeader.react',['fbt','AdsHelpLink.react','React','SUIText.react'],(function a(b,c,d,e,f,g,h){'use strict';var i=function j(){return c('React').createElement('div',null,c('React').createElement(c('SUIText.react'),{size:'medium'},h._("Add a Store Location Question Set")),c('React').createElement(c('AdsHelpLink.react'),{position:'above',width:285},h._("Question with a list of of store locations as answers. This type of question requires the Locations listed in your page or business manager.")));};f.exports=i;}),null);

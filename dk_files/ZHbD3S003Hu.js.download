@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["qeZ5c"]); }
+
+__d('NotificationsDefaultEndpointURI',[],(function a(b,c,d,e,f,g){'use strict';f.exports='/ajax/notifications/client/get.php';}),null);
